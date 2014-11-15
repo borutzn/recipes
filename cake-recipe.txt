@@ -1,11 +1,5 @@
 Ingredients:
-<<<<<<< HEAD
- - 2.5 cups sugari&spice
-||||||| merged common ancestors
- - 2 cups sugar
-=======
- - 2 cups sugar&spice
->>>>>>> 9b2a6e3efed4c51845b7f5fad14550823bc35037
+ - 2.5 cups sugar&spice
  - 1 3/4 cups all-purpose flour
  - 3/4 cup cocoa
  - 1 1/2 teaspoons baking powder
@@ -13,7 +7,13 @@ Ingredients:
  - 1 teaspoon salt
  - 2 eggs
  - 1 cup milk
+<<<<<<< HEAD
+ - 1/2 cup olive oil
+||||||| merged common ancestors
+ - 1/2 cup vegetable oil
+=======
  - 3/4 cup vegetable oil
+>>>>>>> d979ef497c0db8ce2666569fb40278ef375baa3b
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
 
